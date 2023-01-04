@@ -1,0 +1,15 @@
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\Moedas.csproj.AssemblyReference.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\Moedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\Moedas.AssemblyInfoInputs.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\Moedas.AssemblyInfo.cs
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\Moedas.csproj.CoreCompileInputs.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\bin\Debug\net7.0\Moedas.exe
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\bin\Debug\net7.0\Moedas.deps.json
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\bin\Debug\net7.0\Moedas.runtimeconfig.json
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\bin\Debug\net7.0\Moedas.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\bin\Debug\net7.0\Moedas.pdb
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\Moedas.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\refint\Moedas.dll
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\Moedas.pdb
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\Moedas.genruntimeconfig.cache
+C:\Users\sysadmin\Desktop\Projetos\.NET\Moedas\obj\Debug\net7.0\ref\Moedas.dll
